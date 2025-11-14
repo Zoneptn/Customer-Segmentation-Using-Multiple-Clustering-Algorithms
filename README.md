@@ -1,4 +1,4 @@
-📊 #Customer Segmentation Using Clustering Algorithms
+#📊 Customer Segmentation Using Clustering Algorithms
 This project explores customer segmentation using five clustering techniques: K-Means, K-Prototypes, Hierarchical Clustering, DBSCAN, and Gaussian Mixture Models (GMM). 
 The aim is to identify meaningful customer groups based on demographic, behavioral, and transactional data to support business decision-making and personalized marketing strategies.
 
