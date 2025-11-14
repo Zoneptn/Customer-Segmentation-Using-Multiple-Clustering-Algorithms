@@ -18,7 +18,10 @@ This comprehensive approach allows us to confirm whether clusters are meaningful
 ---
 
 # 📂 Dataset Description
-This data set contains 5,000 observatisons and 18 features.
+
+Data Sources: https://www.kaggle.com/datasets/umuttuygurr/e-commerce-customer-behavior-and-sales-analysis-tr/data
+
+Shape: This data set contains 5,000 observatisons and 18 features.
 
 Key features include:
 
